@@ -51,7 +51,7 @@ You must add your own media files in the assets/ folder to make the player fully
 
 - HTML5
 - CSS3
-- Vanilla JavaScript
+- JavaScript
 - [Media Session API](https://developer.mozilla.org/en-US/docs/Web/API/Media_Session_API)
 
 ---
